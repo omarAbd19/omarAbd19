@@ -226,26 +226,27 @@ user@portfolio:~$ git log --oneline --graph --stats
 
 <div align="center">
 
-<!-- GitHub Stats - Using multiple providers for reliability -->
-<a href="https://github.com/omarAbd19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarAbd19&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF&ring_color=00FF00"/>
-</a>
-<a href="https://github.com/omarAbd19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarAbd19&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00FF00&text_color=FFFFFF"/>
-</a>
+<!-- GitHub Stats Card - Using alternative reliable instances -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=omarAbd19&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omarAbd19&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omarAbd19&layout=compact&bg_color=0d1117&hide_border=true&title_color=00FF00&text_color=FFFFFF&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omarAbd19&layout=compact&bg_color=0d1117&hide_border=true&title_color=00FF00&text_color=FFFFFF&langs_count=8"/>
+</picture>
 
 <br/>
 
 <!-- GitHub Streak Stats -->
-<a href="https://github.com/omarAbd19">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarAbd19&theme=chartreuse-dark&background=0d1117&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=omarAbd19&theme=dark&background=0d1117&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF"/>
+  <img src="https://streak-stats.demolab.com?user=omarAbd19&theme=dark&background=0d1117&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF"/>
+</picture>
 
 <!-- Activity Graph -->
 <br/>
-<a href="https://github.com/omarAbd19">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarAbd19&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omarAbd19&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
