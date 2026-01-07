@@ -1,198 +1,241 @@
+<div align="center">
+
 ```
- ██████╗ ███╗   ███╗ █████╗ ██████╗    ██████╗ ███████╗██╗   ██╗
-██╔═══██╗████╗ ████║██╔══██╗██╔══██╗   ██╔══██╗██╔════╝██║   ██║
-██║   ██║██╔████╔██║███████║██████╔╝   ██║  ██║█████╗  ██║   ██║
-██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗   ██║  ██║██╔══╝  ╚██╗ ██╔╝
-╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║██╗██████╔╝███████╗ ╚████╔╝ 
- ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝  ╚═══╝  
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                 │
+│  ░█████╗░███╗░░░███╗░█████╗░██████╗░░░░██████╗░███████╗██╗░░░██╗                │
+│  ██╔══██╗████╗░████║██╔══██╗██╔══██╗░░░██╔══██╗██╔════╝██║░░░██║                │
+│  ██║░░██║██╔████╔██║███████║██████╔╝░░░██║░░██║█████╗░░╚██╗░██╔╝                │
+│  ██║░░██║██║╚██╔╝██║██╔══██║██╔══██╗░░░██║░░██║██╔══╝░░░╚████╔╝░                │
+│  ╚█████╔╝██║░╚═╝░██║██║░░██║██║░░██║██╗██████╔╝███████╗░░╚██╔╝░░                │
+│  ░╚════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═════╝░╚══════╝░░░╚═╝░░░                │
+│                                                                                 │
+│                    [ SYSTEM BREACH SUCCESSFUL ]                                 │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+```
+user@portfolio:~$ ./init_profile.sh
+[■■■■■■■■■■■■■■■■■■■■] 100% - Profile loaded successfully
+
+================================ ACCESS GRANTED ================================
+```
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=%3E+Software+Engineer+%7C+Sweden+%F0%9F%87%B8%F0%9F%87%AA;%3E+Embedded+Systems+Developer;%3E+AI+%2F+ML+Enthusiast;%3E+Low-Level+Programmer;%3E+Hackathon+Champion+%F0%9F%8F%86)](https://portfolio-moh-omar.vercel.app/)
+
+</div>
+
+---
+
+## `// ABOUT_ME`
+
+```c
+user@portfolio:~$ cat /home/omar/bio.txt
 ```
 
 ```c
-/*
- * ============================================================================
- *                        MOHAMMAD OMAR ABDULLAH
- *                   Software Engineer | Sweden 🇸🇪
- * ============================================================================
- *  $ whoami
- *  > Embedded Systems Developer | AI Enthusiast | Low-Level Programmer
- * ============================================================================
+/**
+ * ╔═══════════════════════════════════════════════════════════════════════════╗
+ * ║                         MOHAMMAD OMAR ABDULLAH                            ║
+ * ╠═══════════════════════════════════════════════════════════════════════════╣
+ * ║  STATUS:     Active                                                       ║
+ * ║  LOCATION:   Sweden 🇸🇪                                                    ║
+ * ║  ROLE:       Software Engineer @ Etteplan                                 ║
+ * ║  EDUCATION:  M.Sc. Computer Science & Engineering (AI Focus)              ║
+ * ║  EXPERIENCE: 2+ Years Embedded Development                                ║
+ * ╠═══════════════════════════════════════════════════════════════════════════╣
+ * ║  ACHIEVEMENTS:                                                            ║
+ * ║  ├── [2024] 🏆 Master's Thesis Award - Outstanding AI Research            ║
+ * ║  └── [2025] 🥈 SalamHack Hackathon - Silver Medal Winner                  ║
+ * ╚═══════════════════════════════════════════════════════════════════════════╝
  */
-
-#include <stdio.h>
-#include <stdbool.h>
-
-typedef struct {
-    const char* name;
-    const char* location;
-    const char* role;
-    const char* company;
-    const char* education;
-    int years_experience;
-} Developer;
-
-typedef struct {
-    const char* languages[4];
-    const char* embedded[4];
-    const char* ai_ml[3];
-    const char* tools[4];
-} TechStack;
-
-int main(void) {
-    
-    Developer omar = {
-        .name       = "Mohammad Omar Abdullah",
-        .location   = "Sweden",
-        .role       = "Software Engineer",
-        .company    = "Etteplan",
-        .education  = "M.Sc. Computer Science & Engineering (AI)",
-        .years_experience = 2
-    };
-
-    TechStack skills = {
-        .languages = {"C", "C++", "Python", "JavaScript"},
-        .embedded  = {"Linux", "RTOS", "PLC", "Med-Tech Systems"},
-        .ai_ml     = {"Machine Learning", "Deep Learning", "Neural Networks"},
-        .tools     = {"Git", "GCP", "Raylib", "Pthreads"}
-    };
-
-    const char* achievements[] = {
-        "🏆 Master's Thesis Award Winner (2024)",
-        "🥈 SalamHack 2025 - Silver Medalist",
-        NULL
-    };
-
-    printf(">> Initializing developer profile...\n");
-    printf(">> Loading %d+ years of embedded experience...\n", omar.years_experience);
-    printf(">> Status: READY\n");
-
-    return 0;
-}
 ```
 
 ---
 
+## `// CONNECT`
+
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│  $ cat /etc/connect.conf                                         │
-└──────────────────────────────────────────────────────────────────┘
+user@portfolio:~$ cat /etc/network/connections.conf
 ```
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge)](https://portfolio-moh-omar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/1mar/)
-[![Email](https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge)](mailto:omarabd9904@gmail.com)
+<a href="https://portfolio-moh-omar.vercel.app/"><img src="https://img.shields.io/badge/[_PORTFOLIO_]-141414?style=for-the-badge&logoColor=00FF00" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/1mar/"><img src="https://img.shields.io/badge/[_LINKEDIN_]-141414?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn"/></a>
+<a href="mailto:omarabd9904@gmail.com"><img src="https://img.shields.io/badge/[_EMAIL_]-141414?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email"/></a>
+<a href="https://github.com/omarAbd19"><img src="https://img.shields.io/badge/[_GITHUB_]-141414?style=for-the-badge&logo=github&logoColor=00FF00" alt="GitHub"/></a>
 
 </div>
 
 ---
 
-## `> cat skills.json`
+## `// TECHNICAL_SKILLS`
 
-```json
+```
+user@portfolio:~$ cat skills.json | jq
+```
+
+```js
 {
-    "languages": {
-        "C":          "████████████████████  Expert",
-        "C++":        "████████████████░░░░  Advanced",
-        "Python":     "████████████████░░░░  Advanced",
-        "JavaScript": "████████████░░░░░░░░  Intermediate"
+    "LANGUAGES": {
+        "C":          "████████████████████ 100%  // EXPERT",
+        "C++":        "████████████████░░░░  80%  // ADVANCED", 
+        "Python":     "████████████████░░░░  80%  // ADVANCED",
+        "JavaScript": "████████████░░░░░░░░  60%  // INTERMEDIATE"
     },
-    "domains": {
-        "embedded_systems":   true,
-        "real_time_systems":  true,
-        "medical_devices":    true,
-        "ai_ml":              true,
-        "algorithm_design":   true,
-        "multithreading":     true
+    
+    "EMBEDDED_DEV": {
+        "Linux":              "EXPERIENCED ✓",
+        "Real-Time Systems":  "EXPERIENCED ✓",
+        "PLC Systems":        "EXPERIENCED ✓",
+        "Medical Devices":    "EXPERIENCED ✓"
     },
-    "current_focus": [
-        "Low-level Systems Programming",
-        "Algorithm Visualization",
-        "Neural Networks & Genetic Algorithms",
-        "Real-Time Embedded Systems"
-    ]
+    
+    "AI_SYSTEMS": {
+        "Machine Learning":   "EXPERIENCED ✓",
+        "Deep Learning":      "EXPERIENCED ✓",
+        "Neural Networks":    "EXPERIENCED ✓",
+        "AI Security":        "EXPERIENCED ✓"
+    },
+    
+    "TOOLS": ["Git", "GCP", "Raylib", "Pthreads", "VS Code", "Linux"]
 }
 ```
 
 ---
 
-## `> ./experience --list`
+## `// WORK_EXPERIENCE`
+
+```
+user@portfolio:~$ ./experience --verbose
+```
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  WORK_HISTORY.log                                                  [ACTIVE]  ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║  > SOFTWARE_ENGINEER                                     [2024 - PRESENT] 🟢 ║
+║  │ COMPANY:  Etteplan · Full-time                                            ║
+║  │ LOCATION: Sweden                                                          ║
+║  │ STACK:    Embedded Systems | PLC | Med-Tech                               ║
+║  │ DESC:     Developing embedded and PLC systems for medical technology      ║
+║  │           applications, ensuring high performance and reliability         ║
+║  │                                                                           ║
+║  > SOFTWARE_DEVELOPER                                    [2022 - 2024]       ║
+║  │ COMPANY:  HMS Networks · Full-time                                        ║
+║  │ LOCATION: Halmstad, Sweden                                                ║
+║  │ STACK:    C | Python | C++ | JavaScript                                   ║
+║  │ DESC:     Maintenance, testing, and expansion of embedded software        ║
+║  │                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `// ACHIEVEMENTS`
+
+```
+user@portfolio:~$ cat /var/log/achievements.log
+```
+
+```diff
++ [2024-XX-XX] AWARD     :: Master's Thesis Award - Outstanding Research in AI
++ [2025-XX-XX] HACKATHON :: SalamHack 2025 - 🥈 SILVER MEDAL WINNER
+```
+
+---
+
+## `// PROJECTS`
+
+```
+user@portfolio:~$ ls -la ~/projects/
+```
 
 ```bash
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ WORK EXPERIENCE                                                             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  [2024 - PRESENT] ▸ SOFTWARE ENGINEER @ Etteplan                            │
-│  ├── Embedded & PLC systems development                                     │
-│  ├── Med-tech industry applications                                         │
-│  └── High-reliability software solutions                                    │
-│                                                                             │
-│  [2022 - 2024] ▸ SOFTWARE DEVELOPER @ HMS Networks                          │
-│  ├── Embedded systems maintenance & testing                                 │
-│  ├── Primary: C | Secondary: Python, C++, JS                                │
-│  └── Software functionality & efficiency optimization                       │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `> cat achievements.log`
-
-```
-[2024] AWARD    :: Master's Thesis Award - Outstanding AI Research
-[2025] HACKATHON :: SalamHack 2025 - 🥈 Silver Medal Winner
-```
-
----
-
-## `> ls -la ./projects/`
-
-```
-drwxr-xr-x  user  user  4096  Projects/
-├── 🧬 genetic_algorithms/     # Neural networks + Evolution simulation
-├── 🌀 fourier_transforms/     # DFT visualization with epicycles
-├── 🔀 sorting_algorithms/     # 8 algorithms visualized in real-time
-├── 🧩 pathfinding/            # Maze generation + BFS/DFS/A* solvers
-├── ⚡ multithreading/         # High-performance parallel processing
-├── 🧠 memory_management/      # Allocation strategies visualized
-└── 🎮 more.../                # Check out my repositories! ↓
+total 7
+drwxr-xr-x  omar  dev  4096  ~/projects/
+│
+├── 🧬 genetic_algorithms/      # Neural networks + Genetic evolution
+├── 🌀 fourier_transforms/      # DFT visualization with epicycles  
+├── 🔀 sorting_visualizer/      # 8 algorithms animated in real-time
+├── 🧩 maze_pathfinding/        # BFS / DFS / A* comparison
+├── ⚡ multithreaded_systems/   # High-performance parallel processing
+├── 🧠 memory_allocator/        # Allocation strategies visualized
+├── 🎮 raylib_graphics/         # Low-level graphics programming
+│
+└── >> All built from scratch in pure C <<
 ```
 
 <div align="center">
 
-**`>> All projects built from scratch in pure C with Raylib`**
+```
+user@portfolio:~$ open --repositories
+```
 
-[![Explore Repos](https://img.shields.io/badge/📂_EXPLORE_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarAbd19?tab=repositories)
+<a href="https://github.com/omarAbd19?tab=repositories">
+  <img src="https://img.shields.io/badge/>>_EXPLORE_ALL_REPOSITORIES-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="Explore Repos"/>
+</a>
 
 </div>
 
 ---
 
-## `> neofetch`
+## `// SYSTEM_INFO`
 
 ```
-                    omarAbd19@github
-   ██████████       ─────────────────────────
-   ██      ██       OS:        Developer Edition
-   ██  ██  ██       Kernel:    C / Low-Level
-   ██      ██       Uptime:    2+ years professional
-   ██████████       Shell:     bash / powershell
-   ██      ██       Terminal:  VS Code
-   ██      ██       Languages: EN (Pro) | SE (Pro) | AR (Native)
-   ██      ██       Location:  Sweden 🇸🇪
-                    Status:    Open to collaborate
+user@portfolio:~$ neofetch --config custom
+```
+
+```
+                              omarAbd19@github.com
+    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄        ─────────────────────────────
+    █ ▄▄▄▄▄ █▄▄█▄█ █         OS      → Developer_Edition.iso
+    █ █   █ █▀▀▀▀▀ █         Kernel  → C / Low-Level / Embedded
+    █ █▄▄▄█ █ ███▄ █         Uptime  → 2+ years professional exp
+    █▄▄▄▄▄▄▄█ █▄█ ▄█         Shell   → bash / powershell / zsh
+    █ ▄  ▄▄▄▀▄▀▀▄▀▄█         IDE     → VS Code + Vim
+    █▄█▄██▄█▀▄▄▀▀▄ █         Lang    → EN [PRO] | SE [PRO] | AR [NATIVE]
+    █▄▄▄▄▄▄▄█▄██▄▄██         Focus   → Embedded | AI | Graphics
+                              Status  → 🟢 Open to collaborate
 ```
 
 ---
 
+## `// GITHUB_STATS`
+
+```
+user@portfolio:~$ git log --oneline --graph --stats
+```
+
 <div align="center">
 
-## `> git log --oneline stats`
+<!-- GitHub Stats - Using multiple providers for reliability -->
+<a href="https://github.com/omarAbd19">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarAbd19&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF&ring_color=00FF00"/>
+</a>
+<a href="https://github.com/omarAbd19">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarAbd19&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00FF00&text_color=FFFFFF"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarAbd19&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=00ff00&title_color=00ff00&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarAbd19&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=00ff00&text_color=ffffff"/>
+<br/>
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/omarAbd19">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarAbd19&theme=chartreuse-dark&background=0d1117&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
+</a>
+
+<!-- Activity Graph -->
+<br/>
+<a href="https://github.com/omarAbd19">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarAbd19&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true"/>
+</a>
 
 </div>
 
@@ -201,17 +244,20 @@ drwxr-xr-x  user  user  4096  Projects/
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   "Building software from the ground up — one byte at a time"    │
-│                                                                  │
-│   $ make collaborate                                             │
-│   >> Compiling new connections...                                │
-│   >> Ready for collaboration!                                    │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║         "Building software from the ground up — one byte at a time"          ║
+║                                                                               ║
+║   user@portfolio:~$ make collaborate                                          ║
+║   [■■■■■■■■■■■■■■■■■■■■] Compiling new connections...                         ║
+║   >> BUILD SUCCESSFUL                                                         ║
+║   >> Ready for collaboration!                                                 ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=omarAbd19&color=00ff00&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=omarAbd19&color=00FF00&style=for-the-badge&label=VISITORS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer"/>
 
 </div>
