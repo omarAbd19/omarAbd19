@@ -20,17 +20,17 @@
 <br/>
 
 <!-- Role Tags - Styled like website sections -->
-<img src="https://img.shields.io/badge//>_SOFTWARE__ENGINEER-00FF00?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge//>_EMBEDDED__SYSTEMS-00FF00?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge//>_AI__ENTHUSIAST-00FF00?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge//>_SOFTWARE__ENGINEER-0d1117?style=for-the-badge&labelColor=00FF00&color=0d1117"/>
+<img src="https://img.shields.io/badge//>_EMBEDDED__SYSTEMS-0d1117?style=for-the-badge&labelColor=00FF00&color=0d1117"/>
+<img src="https://img.shields.io/badge//>_AI__ENTHUSIAST-0d1117?style=for-the-badge&labelColor=00FF00&color=0d1117"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%23001-141414?style=flat-square&labelColor=141414"/><img src="https://img.shields.io/badge/LOW__LEVEL__PROGRAMMER-00FF00?style=flat-square&labelColor=141414"/>
+<img src="https://img.shields.io/badge/%23001-00FF00?style=flat-square&labelColor=0d1117"/><img src="https://img.shields.io/badge/LOW__LEVEL__PROGRAMMER-0d1117?style=flat-square&labelColor=00FF00"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/%23002-141414?style=flat-square&labelColor=141414"/><img src="https://img.shields.io/badge/HACKATHON__CHAMPION__🏆-00FF00?style=flat-square&labelColor=141414"/>
+<img src="https://img.shields.io/badge/%23002-00FF00?style=flat-square&labelColor=0d1117"/><img src="https://img.shields.io/badge/HACKATHON__CHAMPION__🏆-0d1117?style=flat-square&labelColor=00FF00"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/%23003-141414?style=flat-square&labelColor=141414"/><img src="https://img.shields.io/badge/SWEDEN__🇸🇪-00FF00?style=flat-square&labelColor=141414"/>
+<img src="https://img.shields.io/badge/%23003-00FF00?style=flat-square&labelColor=0d1117"/><img src="https://img.shields.io/badge/SWEDEN__🇸🇪-0d1117?style=flat-square&labelColor=00FF00"/>
 
 </div>
 
@@ -202,7 +202,7 @@ user@portfolio:~$ open --repositories
 ```
 
 <a href="https://github.com/omarAbd19?tab=repositories">
-  <img src="https://img.shields.io/badge/>>_EXPLORE_ALL_REPOSITORIES-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="Explore Repos"/>
+  <img src="https://img.shields.io/badge/>>_EXPLORE_ALL_REPOSITORIES-0d1117?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=00FF00&color=00FF00" alt="Explore Repos"/>
 </a>
 
 </div>
@@ -280,9 +280,9 @@ user@portfolio:~$ git log --oneline --graph --stats
 
 <br/>
 
-<img src="https://img.shields.io/badge//>__Copyright__©__2026-141414?style=flat-square"/>
-<img src="https://img.shields.io/badge/Mohammad__Omar__Abdullah-00FF00?style=flat-square&labelColor=141414"/>
-<img src="https://img.shields.io/badge/All__Rights__Reserved-141414?style=flat-square"/>
+<img src="https://img.shields.io/badge//>__Copyright__©__2026-00FF00?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Mohammad__Omar__Abdullah-0d1117?style=flat-square&labelColor=00FF00"/>
+<img src="https://img.shields.io/badge/All__Rights__Reserved-00FF00?style=flat-square&labelColor=0d1117"/>
 
 <br/><br/>
 
