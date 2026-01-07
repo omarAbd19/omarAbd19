@@ -2,20 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF00&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│       ░█████╗░███╗░░░███╗░█████╗░██████╗░░░░██████╗░███████╗██╗░░░██╗        │
-│       ██╔══██╗████╗░████║██╔══██╗██╔══██╗░░░██╔══██╗██╔════╝██║░░░██║        │
-│       ██║░░██║██╔████╔██║███████║██████╔╝░░░██║░░██║█████╗░░╚██╗░██╔╝        │
-│       ██║░░██║██║╚██╔╝██║██╔══██║██╔══██╗░░░██║░░██║██╔══╝░░░╚████╔╝░        │
-│       ╚█████╔╝██║░╚═╝░██║██║░░██║██║░░██║██╗██████╔╝███████╗░░╚██╔╝░░        │
-│       ░╚════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═════╝░╚══════╝░░░╚═╝░░░        │
-│                                                                              │
-│                         [ SYSTEM BREACH SUCCESSFUL ]                         │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+<!-- Animated Terminal Box Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=%5B%20OMAR.DEV%20%5D&fontSize=70&fontColor=00FF00&animation=twinkling&fontAlign=50&fontAlignY=45&stroke=00FF00&strokeWidth=2&desc=%E2%94%80%E2%94%80%E2%94%80%20%5B%20SYSTEM%20BREACH%20SUCCESSFUL%20%5D%20%E2%94%80%E2%94%80%E2%94%80&descSize=18&descAlignY=75&descAlign=50&shadow=true"/>
 
 <br/>
 
@@ -168,8 +156,8 @@ user@portfolio:~$ cat /var/log/achievements.log
 ```
 
 ```diff
-+ [2024-XX-XX] AWARD     :: Master's Thesis Award - Outstanding Research in AI
-+ [2025-XX-XX] HACKATHON :: SalamHack 2025 - 🥈 SILVER MEDAL WINNER
++ [2024] AWARD     :: Master's Thesis Award - Outstanding Research in AI
++ [2025] HACKATHON :: SalamHack 2025 - 🥈 SILVER MEDAL WINNER
 ```
 
 ---
