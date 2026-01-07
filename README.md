@@ -226,25 +226,25 @@ user@portfolio:~$ git log --oneline --graph --stats
 
 <div align="center">
 
-<!-- GitHub Stats - Using multiple providers for reliability -->
+<!-- GitHub Stats Card -->
 <a href="https://github.com/omarAbd19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarAbd19&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF&ring_color=00FF00"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=omarAbd19&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF&ring_color=00FF00&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/omarAbd19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarAbd19&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00FF00&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omarAbd19&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00FF00&text_color=FFFFFF&langs_count=8"/>
 </a>
 
 <br/>
 
 <!-- GitHub Streak Stats -->
 <a href="https://github.com/omarAbd19">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarAbd19&theme=chartreuse-dark&background=0d1117&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
+  <img src="https://streak-stats.demolab.com/?user=omarAbd19&theme=chartreuse-dark&background=0d1117&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
 </a>
 
 <!-- Activity Graph -->
 <br/>
 <a href="https://github.com/omarAbd19">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarAbd19&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarAbd19&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </a>
 
 </div>
