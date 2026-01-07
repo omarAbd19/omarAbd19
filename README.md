@@ -225,7 +225,7 @@ user@portfolio:~$ neofetch --config custom
     █ ▄  ▄▄▄▀▄▀▀▄▀▄█        IDE     →  VS Code + Vim
     █▄█▄██▄█▀▄▄▀▀▄ █        Lang    →  EN [PRO] | SE [PRO] | AR [NATIVE]
     █▄▄▄▄▄▄▄█▄██▄▄██        Focus   →  Embedded | AI | Graphics
-                             Status  →  Open to collaborate
+                            Status  →  Open to collaborate
 ```
 
 ---
