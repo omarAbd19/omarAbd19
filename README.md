@@ -268,9 +268,22 @@ user@portfolio:~$ git log --oneline --graph --stats
 
 <br/>
 
-<img src="https://img.shields.io/badge/%2F%3E__Copyright__©__2026-00FF00?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Mohammad__Omar__Abdullah-0d1117?style=flat-square&labelColor=00FF00"/>
-<img src="https://img.shields.io/badge/All__Rights__Reserved-00FF00?style=flat-square&labelColor=0d1117"/>
+<!-- Footer Branding -->
+<img src="https://img.shields.io/badge/©_2026-0d1117?style=flat-square&labelColor=00FF00"/>
+<img src="https://img.shields.io/badge/Mohammad_Omar_Abdullah-0d1117?style=flat-square&labelColor=00FF00"/>
+<img src="https://img.shields.io/badge/All_Rights_Reserved-0d1117?style=flat-square&labelColor=00FF00"/>
+
+<br/><br/>
+
+<a href="https://portfolio-moh-omar.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_VISIT__PORTFOLIO-0d1117?style=for-the-badge&labelColor=00FF00"/>
+</a>
+<a href="https://www.linkedin.com/in/1mar/">
+  <img src="https://img.shields.io/badge/💼_LINKEDIN-0d1117?style=for-the-badge&labelColor=00FF00"/>
+</a>
+<a href="mailto:omarabd9904@gmail.com">
+  <img src="https://img.shields.io/badge/📧_EMAIL-0d1117?style=for-the-badge&labelColor=00FF00"/>
+</a>
 
 <br/><br/>
 
