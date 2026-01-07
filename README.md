@@ -239,10 +239,9 @@ user@portfolio:~$ git log --oneline --graph --stats
 <br/>
 
 <!-- GitHub Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=omarAbd19&theme=dark&background=0d1117&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF"/>
-  <img src="https://streak-stats.demolab.com?user=omarAbd19&theme=dark&background=0d1117&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF"/>
-</picture>
+<a href="https://github.com/omarAbd19">
+  <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=omarAbd19&theme=dark&background=0d1117&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF&stroke=00FF00&currStreakNum=00FF00&sideNums=00FF00"/>
+</a>
 
 <!-- Activity Graph -->
 <br/>
