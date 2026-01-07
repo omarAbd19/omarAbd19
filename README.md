@@ -8,9 +8,9 @@
 <br/>
 
 <!-- Role Tags - Styled like website sections -->
-<img src="https://img.shields.io/badge//>_SOFTWARE__ENGINEER-0d1117?style=for-the-badge&labelColor=00FF00&color=0d1117"/>
-<img src="https://img.shields.io/badge//>_EMBEDDED__SYSTEMS-0d1117?style=for-the-badge&labelColor=00FF00&color=0d1117"/>
-<img src="https://img.shields.io/badge//>_AI__ENTHUSIAST-0d1117?style=for-the-badge&labelColor=00FF00&color=0d1117"/>
+<img src="https://img.shields.io/badge/%2F%3E_SOFTWARE__ENGINEER-0d1117?style=for-the-badge&labelColor=00FF00&color=0d1117"/>
+<img src="https://img.shields.io/badge/%2F%3E_EMBEDDED__SYSTEMS-0d1117?style=for-the-badge&labelColor=00FF00&color=0d1117"/>
+<img src="https://img.shields.io/badge/%2F%3E_AI__ENTHUSIAST-0d1117?style=for-the-badge&labelColor=00FF00&color=0d1117"/>
 
 <br/><br/>
 
@@ -43,7 +43,7 @@ user@portfolio:~$ ./init_profile.sh
 
 ---
 
-## <img src="https://img.shields.io/badge//>_ABOUT__ME-00FF00?style=flat-square&labelColor=0d1117"/>
+## <img src="https://img.shields.io/badge/%2F%3E_ABOUT__ME-00FF00?style=flat-square&labelColor=0d1117"/>
 
 ```c
 user@portfolio:~$ cat /home/omar/bio.txt
@@ -69,7 +69,7 @@ user@portfolio:~$ cat /home/omar/bio.txt
 
 ---
 
-## <img src="https://img.shields.io/badge//>_CONNECT-00FF00?style=flat-square&labelColor=0d1117"/>
+## <img src="https://img.shields.io/badge/%2F%3E_CONNECT-00FF00?style=flat-square&labelColor=0d1117"/>
 
 <div align="center">
 
@@ -86,7 +86,7 @@ user@portfolio:~$ cat /etc/network/connections.conf
 
 ---
 
-## <img src="https://img.shields.io/badge//>_TECHNICAL__SKILLS-00FF00?style=flat-square&labelColor=0d1117"/>
+## <img src="https://img.shields.io/badge/%2F%3E_TECHNICAL__SKILLS-00FF00?style=flat-square&labelColor=0d1117"/>
 
 ```
 user@portfolio:~$ cat skills.json | jq
@@ -121,7 +121,7 @@ user@portfolio:~$ cat skills.json | jq
 
 ---
 
-## <img src="https://img.shields.io/badge//>_WORK__EXPERIENCE-00FF00?style=flat-square&labelColor=0d1117"/>
+## <img src="https://img.shields.io/badge/%2F%3E_WORK__EXPERIENCE-00FF00?style=flat-square&labelColor=0d1117"/>
 
 ```
 user@portfolio:~$ ./experience --verbose
@@ -149,7 +149,7 @@ user@portfolio:~$ ./experience --verbose
 
 ---
 
-## <img src="https://img.shields.io/badge//>_ACHIEVEMENTS-00FF00?style=flat-square&labelColor=0d1117"/>
+## <img src="https://img.shields.io/badge/%2F%3E_ACHIEVEMENTS-00FF00?style=flat-square&labelColor=0d1117"/>
 
 ```
 user@portfolio:~$ cat /var/log/achievements.log
@@ -162,7 +162,7 @@ user@portfolio:~$ cat /var/log/achievements.log
 
 ---
 
-## <img src="https://img.shields.io/badge//>_PROJECTS-00FF00?style=flat-square&labelColor=0d1117"/>
+## <img src="https://img.shields.io/badge/%2F%3E_PROJECTS-00FF00?style=flat-square&labelColor=0d1117"/>
 
 ```
 user@portfolio:~$ ls -la ~/projects/
@@ -197,7 +197,7 @@ user@portfolio:~$ open --repositories
 
 ---
 
-## <img src="https://img.shields.io/badge//>_SYSTEM__INFO-00FF00?style=flat-square&labelColor=0d1117"/>
+## <img src="https://img.shields.io/badge/%2F%3E_SYSTEM__INFO-00FF00?style=flat-square&labelColor=0d1117"/>
 
 ```
 user@portfolio:~$ neofetch --config custom
@@ -218,7 +218,7 @@ user@portfolio:~$ neofetch --config custom
 
 ---
 
-## <img src="https://img.shields.io/badge//>_GITHUB__STATS-00FF00?style=flat-square&labelColor=0d1117"/>
+## <img src="https://img.shields.io/badge/%2F%3E_GITHUB__STATS-00FF00?style=flat-square&labelColor=0d1117"/>
 
 ```
 user@portfolio:~$ git log --oneline --graph --stats
@@ -268,7 +268,7 @@ user@portfolio:~$ git log --oneline --graph --stats
 
 <br/>
 
-<img src="https://img.shields.io/badge//>__Copyright__©__2026-00FF00?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/%2F%3E__Copyright__©__2026-00FF00?style=flat-square&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Mohammad__Omar__Abdullah-0d1117?style=flat-square&labelColor=00FF00"/>
 <img src="https://img.shields.io/badge/All__Rights__Reserved-00FF00?style=flat-square&labelColor=0d1117"/>
 
