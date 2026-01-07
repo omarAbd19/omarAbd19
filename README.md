@@ -43,7 +43,7 @@ user@portfolio:~$ ./init_profile.sh
 
 ---
 
-## `// ABOUT_ME`
+## <img src="https://img.shields.io/badge//>_ABOUT__ME-00FF00?style=flat-square&labelColor=0d1117"/>
 
 ```c
 user@portfolio:~$ cat /home/omar/bio.txt
@@ -69,7 +69,7 @@ user@portfolio:~$ cat /home/omar/bio.txt
 
 ---
 
-## `// CONNECT`
+## <img src="https://img.shields.io/badge//>_CONNECT-00FF00?style=flat-square&labelColor=0d1117"/>
 
 <div align="center">
 
@@ -86,7 +86,7 @@ user@portfolio:~$ cat /etc/network/connections.conf
 
 ---
 
-## `// TECHNICAL_SKILLS`
+## <img src="https://img.shields.io/badge//>_TECHNICAL__SKILLS-00FF00?style=flat-square&labelColor=0d1117"/>
 
 ```
 user@portfolio:~$ cat skills.json | jq
@@ -121,7 +121,7 @@ user@portfolio:~$ cat skills.json | jq
 
 ---
 
-## `// WORK_EXPERIENCE`
+## <img src="https://img.shields.io/badge//>_WORK__EXPERIENCE-00FF00?style=flat-square&labelColor=0d1117"/>
 
 ```
 user@portfolio:~$ ./experience --verbose
@@ -149,7 +149,7 @@ user@portfolio:~$ ./experience --verbose
 
 ---
 
-## `// ACHIEVEMENTS`
+## <img src="https://img.shields.io/badge//>_ACHIEVEMENTS-00FF00?style=flat-square&labelColor=0d1117"/>
 
 ```
 user@portfolio:~$ cat /var/log/achievements.log
@@ -162,7 +162,7 @@ user@portfolio:~$ cat /var/log/achievements.log
 
 ---
 
-## `// PROJECTS`
+## <img src="https://img.shields.io/badge//>_PROJECTS-00FF00?style=flat-square&labelColor=0d1117"/>
 
 ```
 user@portfolio:~$ ls -la ~/projects/
@@ -197,7 +197,7 @@ user@portfolio:~$ open --repositories
 
 ---
 
-## `// SYSTEM_INFO`
+## <img src="https://img.shields.io/badge//>_SYSTEM__INFO-00FF00?style=flat-square&labelColor=0d1117"/>
 
 ```
 user@portfolio:~$ neofetch --config custom
@@ -218,7 +218,7 @@ user@portfolio:~$ neofetch --config custom
 
 ---
 
-## `// GITHUB_STATS`
+## <img src="https://img.shields.io/badge//>_GITHUB__STATS-00FF00?style=flat-square&labelColor=0d1117"/>
 
 ```
 user@portfolio:~$ git log --oneline --graph --stats
