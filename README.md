@@ -243,9 +243,9 @@ user@portfolio:~$ git log --oneline --graph --stats
   <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=omarAbd19&theme=dark&background=0d1117&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF&stroke=00FF00&currStreakNum=00FF00&sideNums=00FF00"/>
 </a>
 
-<!-- Activity Graph -->
+<!-- Activity Graph - Updates every 30 minutes -->
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omarAbd19&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omarAbd19&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=16" width="100%"/>
 
 </div>
 
